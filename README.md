@@ -17,4 +17,8 @@ pip install jamdict
 The program uses the following libraries:
 
 - JamDict: <https://pypi.org/project/jamdict/>
+<<<<<<< HEAD
 - pyttsx3: <https://pypi.org/project/pyttsx3/>
+=======
+- pyttsx3: <https://pypi.org/project/pyttsx3/>
+>>>>>>> 37cc7c3d7c1b110cb4a15c5542aad3e521f36a1d
